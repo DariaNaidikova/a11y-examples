@@ -4,4 +4,3 @@
 - storybook-addon-a11y
 - axe-core + vitest-axe (jest-axe)
 - @testing-library/react
-
